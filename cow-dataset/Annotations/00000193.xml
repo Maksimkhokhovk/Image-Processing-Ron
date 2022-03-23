@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cow-dataset</folder>
+	<filename>00000193.jpg</filename>
+	<path>/Users/nhuquynh/Downloads/cow-dataset/00000193.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1417</width>
+		<height>1233</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cow</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>22</ymin>
+			<xmax>1417</xmax>
+			<ymax>1228</ymax>
+		</bndbox>
+	</object>
+</annotation>
